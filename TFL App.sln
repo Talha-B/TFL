@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFL.App", "TFL App\TFL.App.csproj", "{B04A2252-4100-49BB-9C60-2BCF29FC2873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFL.App", "TFL.App\TFL.App.csproj", "{B04A2252-4100-49BB-9C60-2BCF29FC2873}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFL.Services.Interfaces", "TFL.Services.Interfaces\TFL.Services.Interfaces.csproj", "{1D7025AB-2CC7-405F-8633-90D80FB098BB}"
 EndProject
