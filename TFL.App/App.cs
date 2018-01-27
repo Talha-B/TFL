@@ -16,6 +16,7 @@ namespace TFL.App
         {
             try
             {
+                Console.WriteLine("Please enter a road...");
                 var road = Console.ReadLine();
                 var roadStatus = this._roadStatusService.GetStatus(road);
 
